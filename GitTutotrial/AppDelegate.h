@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  GitTutotrial
 //
-//  Created by Olcay Ertas on 18/02/15.
+//  Created by Olcay Ertaş on 18/02/15.
 //  Copyright (c) 2015 Humexis. All rights reserved.
 //
 
